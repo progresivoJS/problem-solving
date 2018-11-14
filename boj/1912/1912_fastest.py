@@ -1,5 +1,3 @@
-#hard #sliding_window
-
 n = input()
 a = list(map(int, input().split()))
 
